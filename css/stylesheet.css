@@ -28,6 +28,9 @@ body {
     --white-color: #fff;
     --bgc: #e5e5e5;
 }
+
+
+
 .text-h2 {
     font-family: "Oswald", sans-serif;
     font-weight: 500;
@@ -208,9 +211,6 @@ body {
 .request_flex-left {
     color: var(--white-color);
 }
-.request_flex-right {
-
-}
 .request_h4 {
     font-weight: bold;
     text-transform: uppercase;
@@ -273,20 +273,11 @@ body {
     margin: 0 auto 21px;
 }
 
-.portfolio {
-
-}
 .portfolio_grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-items: center;
     gap: 0;
-}
-.portfolio_grid-item {
-
-}
-.portfolio_img {
-
 }
 
 .question {
@@ -362,9 +353,6 @@ body {
     gap: 30px;
     grid-template-columns: repeat(3, 1fr);
 }
-.reviews_grid-item {
-
-}
 .reviews_card {
     background-color: #f7f7f7;
     padding: 28px 30px;
@@ -420,12 +408,6 @@ body {
 .footer_flex {
     display: flex;
     justify-content: space-between;
-}
-.footer_copyright {
-
-}
-.footer_brand {
-
 }
 
 
